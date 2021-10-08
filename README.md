@@ -1,6 +1,6 @@
 # Instructions
-- Clone and rename folder `$ git clone git@github.com:dented-academy/express-ejs-starter.git your_project_name_here`
-- Find and rename all instance of `your_project_name_here` to your project name
+- Clone and rename folder `$ git clone git@github.com:dented-academy/express-ejs-starter.git mememe`
+- Find and rename all instance of `mememe` to your project name
 - Create a `.env` file
   ```txt
   COOKIE_SECRET=put_something_random_here
